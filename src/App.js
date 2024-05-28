@@ -12,8 +12,7 @@ const App = () => {
     setClickCount(clickCount + 1);
   };
   return (
-    <div className="app">
-      <h1 className="title">Отслеживание кликов</h1>
+    <div>
       <ClickCounter clickCount={clickCount} />
       <ClickButton onClick={incrementClickCount} />
       <ResetBtn onClick={resetClickCount} />

@@ -1,15 +1,5 @@
-.app {
-  text-align: center;
-  margin-top: 50px;
-}
 * {
   background-color: palegreen;
-}
-.title {
-  font-size: 24px;
-  margin-bottom: 20px;
-  color: orchid;
-  font-size: 50px;
 }
 
 .button,
